@@ -10,8 +10,7 @@ Anyone wanting to contribute is free to do so. This is an open-source project an
 
 For now our currently planned features are as follows:
 
-<img align="right" width="300" src="Guardian.png">
-
+<img align="right" width="250" src="Guardian.png">
 
  * Moderation
  * Information
@@ -22,6 +21,6 @@ For now our currently planned features are as follows:
  * Logging
  
  ---
- 
+
  Currently this bot is in the early stages of it's build and as such is not reccommended for use.
 
