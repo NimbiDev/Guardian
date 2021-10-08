@@ -18,8 +18,6 @@ For now our currently planned features are as follows:
  * Stream Alerts
  * Memes
  * Logging
- 
-
- 
+ <br /><br /><br />
 Currently this bot is in the early stages of it's build and as such is not reccommended for use.
 
