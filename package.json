@@ -1,0 +1,20 @@
+{
+  "name": "guardian",
+  "version": "1.0.0",
+  "description": "Discord Bot built in discord.js v13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Joshua Lewis (Darkwater409@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "nodemon": "^2.0.13"
+  }
+}
