@@ -1,7 +1,7 @@
 # Guardian
 Discord Bot built in discord.js v13
 
-<img src="Guardian.png" width="250">
+<img src="Guardian.png" width="500">
 
 This bot is a WIP build to get us started with the new requirements being pushed by Discord. As it stands, it may or may not work. 
 We will be building this up over time.
