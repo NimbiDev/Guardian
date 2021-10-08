@@ -5,7 +5,7 @@ This bot is a WIP build to get us started with the new requirements being pushed
 We will be building this up over time.
 
 Anyone wanting to contribute is free to do so. This is an open-source project and we freely accept new featues and contributions for it.
-<img align="right" width="400" src="Guardian.png">
+<img align="right" width="300" src="Guardian.png">
 For now our currently planned features are as follows:
 
  * Moderation
