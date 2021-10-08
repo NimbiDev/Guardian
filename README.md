@@ -32,7 +32,7 @@ For now our currently planned features are as follows:
  * **Music**: `play [track | url]`, `queue`, `skip`, `pause`, `leave`, `stop`, `nowplaying`
  * **Stream Alerts**: `twitch`, `youtube`, `picarto`, `mixer`
  * **Logging**: `automod`, `auditlog`, `modlog`, `voicelog`, `memberlog`
- * **Utilities**: `welcomer`, `set [categoy] [option]`
+ * **Utilities**: `welcomer`, `set <categoy> [option] [option] [option]`
  
  ---
 
