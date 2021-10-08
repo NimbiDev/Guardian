@@ -47,5 +47,8 @@ For now our currently planned features are as follows:
  
  ---
 
- Currently this bot is in the early stages of it's build and as such is not reccommended for use.
+**Important Note**
 
+---
+
+ Currently this bot is in the early stages of it's build and as such is not reccommended for use. If you wish to contribute, please note you will need a understanding of `discord.js v13` and `node.js` at the very least.
