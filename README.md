@@ -54,7 +54,7 @@ For now our currently planned features are as follows:
  Currently this bot is in the early stages of it's build and as such is not reccommended for use. However, if you would like to contribute, here are the current dependenicies:
 
 ```yml
- dependencies: 
+dependencies: 
     @discordjs/builders: 0.6.0
     @discordjs/rest: 0.1.0-canary.0
     discord-api-types: 0.23.1
