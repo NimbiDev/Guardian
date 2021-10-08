@@ -8,7 +8,18 @@ We will be building this up over time.
 
 Anyone wanting to contribute is free to do so. This is an open-source project and we freely accept new featues and contributions for it.
 
----
+## Commands
+
+Currently available commands are as follows:
+
+ * avatar [user]: Return a specified user's avatar. If no user is specified, return's your avatar. 
+ * beep: Boop!
+ * kick <user>: Kick a specified user from the guild. 
+ * options-info <input> : Returns information about the options provided.
+ * ping: Pong!
+ * prune [amount]: Prune up to 99 messages. 
+ * server: Returns info about the current guild.
+ * user-info [user]: Returns information about a specified user. If no user is specified, returns your information. 
 
 ## Planned Features
 
