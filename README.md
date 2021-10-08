@@ -12,26 +12,26 @@ Anyone wanting to contribute is free to do so. This is an open-source project an
 
 Currently available commands are as follows:
 
- * avatar [user]: Return a specified user's avatar. If no user is specified, return's your avatar. 
- * beep: Boop!
- * kick <user>: Kick a specified user from the guild. 
- * options-info <input> : Returns information about the options provided.
- * ping: Pong!
- * prune [amount]: Prune up to 99 messages. 
- * server: Returns info about the current guild.
- * user-info [user]: Returns information about a specified user. If no user is specified, returns your information. 
+ * **avatar [user]**: Return a specified user's avatar. If no user is specified, return's your avatar. 
+ * **beep**: Boop!
+ * **kick <user>**: Kick a specified user from the guild. 
+ * **options-info <input>**: Returns information about the options provided.
+ * **ping**: Pong!
+ * **prune [amount]**: Prune up to 99 messages. 
+ * **server**: Returns info about the current guild.
+ * **user-info [user]**: Returns information about a specified user. If no user is specified, returns your information. 
 
 ## Planned Features
 
 For now our currently planned features are as follows:
 
- * Moderation
- * Information
- * Images and Gifs
- * Music
- * Stream Alerts
- * Memes
- * Logging
+ * **Moderation**: `ban <user> [time]`, `mute <user> [time]`, `slowmode <channel> <time>`
+ * **Information**: `help [command]`, `search [query]`
+ * **Images and Gifs**: `anime [query]`, `dog`, `cat`, `slap [user]`, `baka [user]`, `trigger [user]`
+ * **Music**: `play [track | url]`, `queue`, `skip`, `pause`, `leave`, `stop`, `nowplaying`
+ * **Stream Alerts**: `twitch`, `youtube`, `picarto`, `mixer`
+ * **Logging**: `automod`, `auditlog`, `modlog`, `voicelog`, `memberlog`
+ * **Utilities**: `welcomer`, `setup`
  
  ---
 
