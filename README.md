@@ -7,7 +7,7 @@ We will be building this up over time.
 Anyone wanting to contribute is free to do so. This is an open-source project and we freely accept new featues and contributions for it.
 
 For now our currently planned features are as follows:
-<img align="right" width="250" src="Guardian.png">
+<img align="right" width="400" src="Guardian.png">
 
  * Moderation
  * Information
