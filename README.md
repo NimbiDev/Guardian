@@ -26,6 +26,8 @@ Currently available commands are as follows:
 
 For now our currently planned features are as follows:
 
+<img align="left" width="250" src="Guardian.png">
+
  * **Administration**: `ban <user> [time] [reason]`, `slowmode <channel> <time>`, `channel [create | delete | edit]`, `role [create | delete | edit | add | remove] [user]` 
  * **Moderation**: `mute <user> [time]`, `warn <user> [reason]`
  * **Information**: `help [command]`, `search [query]`
