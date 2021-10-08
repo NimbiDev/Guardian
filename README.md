@@ -25,13 +25,14 @@ Currently available commands are as follows:
 
 For now our currently planned features are as follows:
 
- * **Moderation**: `ban <user> [time]`, `mute <user> [time]`, `slowmode <channel> <time>`
+ * **Administration**: `ban <user> [time] [reason]`, `slowmode <channel> <time>`, `channel [create | delete | edit]`, `role [create | delete | edit | add | remove] [user]` 
+ * **Moderation**: `mute <user> [time]`, `warn <user> [reason]`
  * **Information**: `help [command]`, `search [query]`
  * **Images and Gifs**: `anime [query]`, `dog`, `cat`, `slap [user]`, `baka [user]`, `trigger [user]`
  * **Music**: `play [track | url]`, `queue`, `skip`, `pause`, `leave`, `stop`, `nowplaying`
  * **Stream Alerts**: `twitch`, `youtube`, `picarto`, `mixer`
  * **Logging**: `automod`, `auditlog`, `modlog`, `voicelog`, `memberlog`
- * **Utilities**: `welcomer`, `setup`
+ * **Utilities**: `welcomer`, `set [categoy] [option]`
  
  ---
 
