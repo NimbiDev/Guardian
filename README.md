@@ -7,7 +7,8 @@ We will be building this up over time.
 
 Anyone wanting to contribute is free to do so. This is an open-source project and we freely accept new featues and contributions for it.
 
-Commands
+**Commands**
+
 ---
 
 Currently available commands are as follows:
@@ -23,7 +24,8 @@ Currently available commands are as follows:
  * **Server**: Returns info about the current guild.
  * **User-Info [user]**: Returns information about a specified user. If no user is specified, returns your information. 
 
-Planned Features
+**Planned Features**
+
 ---
 
 For now our currently planned features are as follows:
