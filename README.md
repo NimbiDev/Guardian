@@ -7,7 +7,10 @@ We will be building this up over time.
 Anyone wanting to contribute is free to do so. This is an open-source project and we freely accept new featues and contributions for it.
 
 For now our currently planned features are as follows:
+
 <img align="left" width="300" src="Guardian.png">
+
+
  * Moderation
  * Information
  * Images and Gifs
@@ -15,6 +18,8 @@ For now our currently planned features are as follows:
  * Stream Alerts
  * Memes
  * Logging
+ 
+
  
 Currently this bot is in the early stages of it's build and as such is not reccommended for use.
 
