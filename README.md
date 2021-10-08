@@ -51,4 +51,27 @@ For now our currently planned features are as follows:
 
 ---
 
- Currently this bot is in the early stages of it's build and as such is not reccommended for use. If you wish to contribute, please note you will need a understanding of `discord.js` and `node.js` at the very least.
+ Currently this bot is in the early stages of it's build and as such is not reccommended for use. However, if you would like to contribute, here are the current dependenicies:
+
+```yml
+ dependencies: 
+    @discordjs/builders: 0.6.0
+    @discordjs/rest: 0.1.0-canary.0
+    discord-api-types: 0.23.1
+    discord.js: 13.2.0
+
+devDependencies:
+    eslint: 7.32.0
+    nodemon: 2.0.13
+```
+
+---
+
+**Support**
+
+---
+
+
+You can contact us directly for any support or questions you may have via the following location(s):
+
+ * [Discord](https://discord.me/developer-corner)
