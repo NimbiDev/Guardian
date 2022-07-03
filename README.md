@@ -40,7 +40,7 @@ For now our currently planned features are as follows:
  * **Moderation**: `mute <user> [time]`, `warn <user> [reason]`
  * **Information**: `help [command]`, `search [query]`
  * **Images and Gifs**: `anime [query]`, `dog`, `cat`, `slap [user]`, `baka [user]`, `trigger [user]`
- * **Music**: `play [track | url]`, `queue`, `skip`, `pause`, `leave`, `stop`, `nowplaying`
+ * **Music**: `play [track | url]`, `queue`, `skip`, `pause`, `leave`, `stop`, `nowplaying`, `volume [number]`, `equalizer [option]`
  * **Stream Alerts**: `twitch`, `youtube`, `picarto`, `mixer`
  * **Logging**: `automod`, `auditlog`, `modlog`, `voicelog`, `memberlog`
  * **Utilities**: `welcomer`, `set <categoy> [option] [option] [option]`
