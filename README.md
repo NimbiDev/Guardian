@@ -39,10 +39,10 @@ For now our currently planned features are as follows:
  * **Administration**: `ban <user> [time] [reason]`, `slowmode <channel> <time>`, `channel [create | delete | edit]`, `role [create | delete | edit | add | remove] [user]` 
  * **Moderation**: `mute <user> [time]`, `warn <user> [reason]`
  * **Information**: `help [command]`, `search [query]`
- * **Images and Gifs**: `anime [query]`, `dog`, `cat`, `slap [user]`, `baka [user]`, `trigger [user]`
+ * **Images and Gifs**: `anime [query]`, `dog`, `cat`, `slap [user]`, `baka [user]`, `trigger [user]`, `waifu [option] [tag]`
  * **Music**: `play [track | url]`, `queue`, `skip`, `pause`, `leave`, `stop`, `nowplaying`, `volume [number]`, `equalizer [option]`, `loop`, `loopqueue`
  * **Stream Alerts**: `twitch`, `youtube`, `picarto`, `mixer`
- * **Logging**: `automod`, `auditlog`, `modlog`, `voicelog`, `memberlog`
+ * **Logging**: `automod`, `auditlog`, `modlog`
  * **Utilities**: `welcomer`, `set <categoy> [option] [option] [option]`
  
  ---
