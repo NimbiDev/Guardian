@@ -36,6 +36,8 @@ For now our currently planned features are as follows:
 
 <img align="right" width="250" src="Guardian.png">
 
+**Commands**
+
  * **Administration**: `ban <user> [time] [reason]`, `slowmode <channel> <time>`, `channel [create | delete | edit]`, `role [create | delete | edit | add | remove] [user]` 
  * **Moderation**: `mute <user> [time]`, `warn <user> [reason]`
  * **Information**: `help [command]`, `search [query]`
@@ -44,8 +46,16 @@ For now our currently planned features are as follows:
  * **Stream Alerts**: `twitch`, `youtube`, `picarto`, `mixer`
  * **Logging**: `automod`, `auditlog`, `modlog`
  * **Utilities**: `welcomer`, `set <categoy> [option] [option] [option]`
+  
+---
+
+**Integrations**
+
+---
  
- ---
+ <img align="left" width="250" src="https://www.fullstackpython.com/img/logos/heroku.png"><br /><br /><br /><br />
+ 
+---
 
 **Important Note**
 
