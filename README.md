@@ -1,7 +1,6 @@
 # Guardian
 Discord Bot built in discord.js v13
 
-
 This bot is a WIP template build. As it stands, it may or may not work. 
 We will be building this up over time.
 
@@ -10,8 +9,6 @@ Anyone wanting to contribute is free to do so. This is an open-source project an
 ---
 
 **Commands**
-
----
 
 Currently available commands are as follows:
 
@@ -30,12 +27,11 @@ Currently available commands are as follows:
 
 **Planned Features**
 
----
-
 For now our currently planned features are as follows:
 
 <img align="right" width="250" src="Guardian.png">
 
+  
 **Commands**
 
  * **Administration**: `ban <user> [time] [reason]`, `slowmode <channel> <time>`, `channel [create | delete | edit]`, `role [create | delete | edit | add | remove] [user]` 
@@ -47,21 +43,16 @@ For now our currently planned features are as follows:
  * **Logging**: `automod`, `auditlog`, `modlog`
  * **Utilities**: `welcomer`, `set <categoy> [option] [option] [option]`
   
----
-
+  
 **Integrations**
 
----
- 
- <img align="left" width="250" src="https://www.fullstackpython.com/img/logos/heroku.png"><br /><br /><br /><br />
+<img align="left" width="250" src="https://www.fullstackpython.com/img/logos/heroku.png"><br /><br /><br /><br />
  
 ---
 
 **Important Note**
 
----
-
- Currently this bot is in the early stages of it's build and as such is not reccommended for use. However, if you would like to contribute, here are the current dependenicies:
+Currently this bot is in the early stages of it's build and as such is not reccommended for use. However, if you would like to contribute, here are the current dependenicies:
 
 ```yml
 dependencies: 
