@@ -6,11 +6,13 @@ We will be building this up over time.
 
 Anyone wanting to contribute is free to do so. This is an open-source project and we freely accept new featues and contributions for it.
 
+
 ---
 
-**Commands**
+**Current Features**<br />
+Currently availavle features are as follows
 
-Currently available commands are as follows:
+**Commands**
 
 <img align="right" width="250" src="Guardian.png">
 
@@ -21,18 +23,17 @@ Currently available commands are as follows:
  * **Ping**: Pong!
  * **Prune [amount]**: Prune up to 99 messages. 
  * **Server**: Returns info about the current guild.
- * **User-Info [user]**: Returns information about a specified user. If no user is specified, returns your information. 
+ * **User-Info [user]**: Returns information about a specified user. If no user is specified, returns your information.
+<br /><br /><br />
 
 ---
 
-**Planned Features**
-
-For now our currently planned features are as follows:
-
-<img align="right" width="250" src="Guardian.png">
-
+**Planned Features**<br />
+For now our currently planned features are as follows
   
 **Commands**
+
+<img align="right" width="250" src="Guardian.png">
 
  * **Administration**: `ban <user> [time] [reason]`, `slowmode <channel> <time>`, `channel [create | delete | edit]`, `role [create | delete | edit | add | remove] [user]` 
  * **Moderation**: `mute <user> [time]`, `warn <user> [reason]`
@@ -42,17 +43,20 @@ For now our currently planned features are as follows:
  * **Stream Alerts**: `twitch`, `youtube`, `picarto`, `mixer`
  * **Logging**: `automod`, `auditlog`, `modlog`
  * **Utilities**: `welcomer`, `set <categoy> [option] [option] [option]`
-  
-  
+<br /><br /><br />
+
+---
+
 **Integrations**
 
-<img align="left" width="250" src="https://www.fullstackpython.com/img/logos/heroku.png"><br /><br /><br /><br />
+
+<img align="left" width="250" src="https://www.fullstackpython.com/img/logos/heroku.png">
+<br /><br /><br /><br />
  
 ---
 
-**Important Note**
-
-Currently this bot is in the early stages of it's build and as such is not reccommended for use. However, if you would like to contribute, here are the current dependenicies:
+**Important Note**<br />
+Currently this bot is in the early stages of it's build and as such is not reccommended for use. However, if you would like to contribute, here are the current dependenicies:<br />
 
 ```yml
 dependencies: 
