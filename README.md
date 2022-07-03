@@ -69,12 +69,3 @@ engine:
 ```
 
 ---
-
-**Support**
-
----
-
-
-You can contact us directly for any support or questions you may have via the following location(s):
-
- * [Discord](https://discord.me/developer-corner)
