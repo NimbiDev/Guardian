@@ -1,10 +1,14 @@
 # Guardian
+
+<img align="right" width=250 src="./Guardian.png">
+
 Discord Bot built in discord.js v13
 
 This bot is a WIP template build. As it stands, it may or may not work. 
 We will be building this up over time.
 
 Anyone wanting to contribute is free to do so. This is an open-source project and we freely accept new featues and contributions for it.
+<br /><br /><br /><br /><br /><br /><br />
 
 
 ---
