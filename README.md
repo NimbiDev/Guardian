@@ -94,16 +94,17 @@ For now our currently planned features are as follows
 
 | Command | Description | Usage |
 | -------------- | -------------- | -------------- |
+| join | Make the bot join the voice channel | /join |
+| leave | Make the bot leave the voice channel | /leave |
 | play | Play a selected song or url | /play [track / url] |
-| queue | Display the current queue | /queue |
+| queue | Display the current queue or the queue history | /queue [history] |
 | skip | Skip the selected track | /skip [option] |
 | pause | Pause the currently playing song or queue | /pause |
-| leave | Make the bot leave the current voice channel | /leave |
 | stop | Stop the curently playing song or queeu and automatically clear it | /stop |
-| np | Display the curently playing song | /np |
-| vol | Set the volume level | /vol [number] |
-| eq | Set the equalizer | /eq [option] |
-| loop | loop the currently playing track or queue | /loop [option] |
+| nowplaying | Display the curently playing song | /nowplaying |
+| volume | Set the volume level | /volume [number] |
+| equalizer | Set the equalizer | /equalizer [option] |
+| loop | loop the currently playing track or queue | /loop [queue] |
 
  * **Stream Alerts**
 
