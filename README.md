@@ -59,8 +59,8 @@ For now our currently planned features are as follows
 | ban | Ban a specified user for a specified time and reason | /ban [user] [time] [reason] |
 | kick | Kick a specified user for a specified time and reason | /kick [user] [time] [reason] |
 | slowmode | Set the slowmode for a specified channel  | /slowmode [channel] [time] |
-| role | Create, edit, or delete a role - OR - Add or remove a role from a user. | /role [create | delete | edit | add | remove] [user] |
-| channel | Create, delete, or edit a channel | /channel [create | delete | edit] |
+| role | Create, edit, or delete a role - OR - Add or remove a role from a user. | /role [create / delete / edit / add / remove] [user] |
+| channel | Create, delete, or edit a channel | /channel [create / delete / edit] |
 | set | Configure the bot and it's features in your guild | /set [category] [option] [option] [option] |
 
  * **Moderation**
@@ -94,7 +94,7 @@ For now our currently planned features are as follows
 
 | Command | Description | Usage |
 | -------------- | -------------- | -------------- |
-| play | Play a selected song or url | /play [track | url] |
+| play | Play a selected song or url | /play [track / url] |
 | queue | Display the current queue | /queue |
 | skip | Skip the selected track | /skip [option] |
 | pause | Pause the currently playing song or queue | /pause |
@@ -118,7 +118,7 @@ For now our currently planned features are as follows
 
 | Command | Description | Usage |
 | -------------- | -------------- | -------------- |
-| info | Returns the specified info | /info [guild | user | options] |
+| info | Returns the specified info | /info [guild / user / options] |
 | ping | Returns the bot's current ping and api latency | /ping |
 
 
